@@ -6,6 +6,7 @@
     targej - pull
     piznij = push
     fajrant = !sh -c 'git pull --rebase && git push'
+    fyrlej = rebase
     
     curig = revert
     
@@ -16,3 +17,4 @@
     
     kajjesmajster = !sh -c 'git shortlog HEAD..origin/master'
     
+    fachmany = shortlog --numbered --summary
