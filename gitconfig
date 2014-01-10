@@ -5,6 +5,7 @@
     
     targej - pull
     piznij = push
+    fajrant = !sh -c 'git pull --rebase && git push'
     
     curig = revert
     
