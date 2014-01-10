@@ -13,3 +13,5 @@
     hasie = stash
     hasiewciep = stash apply
     
+    kajjesmajster = !sh -c 'git shortlog HEAD..origin/master'
+    

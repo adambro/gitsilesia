@@ -1,4 +1,4 @@
 gitsilesia
 ==========
 
-Git co godo po noszymu.
+Git co godo po naszymu.
