@@ -3,6 +3,7 @@
     wciep = apply
     dodej = add
     lobocz = show
+    pozor = diff
     
     targej - pull
     piznij = push
