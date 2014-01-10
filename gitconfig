@@ -2,6 +2,7 @@
     dup = commit
     wciep = apply
     dodej = add
+    lobocz = show
     
     targej - pull
     piznij = push
