@@ -1,0 +1,13 @@
+[alias]
+    dup = commit
+    wciep = apply
+    dodej = add
+    
+    targej - pull
+    piznij = push
+    
+    curig = revert
+    
+    hasie = stash
+    hasiewciep = stash apply
+    
