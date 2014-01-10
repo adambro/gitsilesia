@@ -8,7 +8,7 @@
     fajrant = !sh -c 'git pull --rebase && git push'
     fyrlej = rebase
     
-    curig = revert
+    curig = reset
     
     kiery = blame
     
