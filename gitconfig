@@ -4,6 +4,7 @@
     dodej = add
     lobocz = show
     pozor = diff
+    bydzie = status
     
     targej - pull
     piznij = push
@@ -11,6 +12,7 @@
     fyrlej = rebase
     
     curig = reset
+    majster = checkout master
     
     kiery = blame
     
