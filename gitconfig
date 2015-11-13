@@ -6,7 +6,7 @@
     pozor = diff
     bydzie = status
     
-    targej - pull
+    targej = pull
     piznij = push
     fajrant = !sh -c 'git pull --rebase && git push'
     fyrlej = rebase
