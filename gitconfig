@@ -5,6 +5,7 @@
     lobocz = show
     pozor = diff
     bydzie = status
+    tag = abcylinder
     
     targej = pull
     piznij = push
@@ -12,6 +13,7 @@
     fyrlej = rebase
     
     curig = reset
+    curigfest = reset --hard
     majster = checkout master
     
     kiery = blame
